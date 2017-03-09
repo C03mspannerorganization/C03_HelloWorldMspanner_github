@@ -6,6 +6,7 @@ public class HelloWorldMspanner {
 		// TODO Auto-generated method stub
 		System.out.println("Gruﬂ von Michi Sp.");
 		System.out.println("Gruﬂ von Max Sk.");
+		System.out.println("Gruﬂ von Kevin R¸.");
 	}
 
 }
