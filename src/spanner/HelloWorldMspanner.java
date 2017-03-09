@@ -7,6 +7,7 @@ public class HelloWorldMspanner {
 		System.out.println("Gruﬂ von Michi Sp.");
 		System.out.println("Gruﬂ von Max Sk.");
 		System.out.println("Gruﬂ von Kevin R¸.");
+		System.out.println("Gruﬂ von David Sa.");
 	}
 
 }
